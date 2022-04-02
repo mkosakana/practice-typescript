@@ -1,1 +1,1 @@
-# learning-typescript
+# practice-typescript
